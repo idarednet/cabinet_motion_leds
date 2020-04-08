@@ -4,6 +4,7 @@ Circuit Python Project that integrates under the cabinet, kitchen counter LED li
 ## Harware Used:
 - [Adafruit Trinket M0](https://www.adafruit.com/product/3500)
 - [Grove PIR Motion Sensor](http://wiki.seeedstudio.com/Grove-PIR_Motion_Sensor/)
+- 5050 LED strip with 100 LEDs
 - External 5VDC Power Supply
 
 ## Software Libraries Used:
